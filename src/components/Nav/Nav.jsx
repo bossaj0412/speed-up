@@ -8,7 +8,7 @@ const Nav = () => {
     <div className="nav-container">
       <div className="nav-left">
         <img className="flash-logo" src={logo} alt="logo" />
-        <p className="flash-logo-text">FlashType</p>
+        <p className="flash-logo-text">Speed-up</p>
       </div>
       <div className="nav-right">
         <a target="_blank" href="" className="nav-link" rel="noreferrer">
